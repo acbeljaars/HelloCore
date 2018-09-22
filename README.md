@@ -1,0 +1,2 @@
+# HelloCore
+TestDotNetCore
